@@ -1,0 +1,2 @@
+# sws
+Static Web Server
